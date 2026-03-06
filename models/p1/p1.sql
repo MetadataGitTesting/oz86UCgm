@@ -1,1 +1,1 @@
-SELECT * FROM p1base;
+SELECT * FROM p1_left;
