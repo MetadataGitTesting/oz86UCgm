@@ -1,0 +1,1 @@
+SELECT * FROM p2_base;
